@@ -15,4 +15,4 @@
 
 
 ## 🚀 Repositório
-- [repositório da api](https://github.com/valdineij/rinha-backend-2024q1-Python)
+- [repositório da api](https://github.com/valdineij/rinha-de-backend-2024q1-Python)
